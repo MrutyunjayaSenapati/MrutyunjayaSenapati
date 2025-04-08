@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Everything xD**
 
-- 👨‍💻 All of my projects are available at [coming](coming)
+
 
 - 💬 Ask me about **React, Spring boot**
 
