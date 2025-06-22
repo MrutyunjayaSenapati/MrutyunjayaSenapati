@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **React, Spring boot**
+- 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **mrutyunjayasenapati007@gmail.com**
 
